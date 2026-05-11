@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RecipeShare UI Testing"
+       verbose="1"
+       parallel="false">
+
+    <test name="EP-A Autenticación">
+        <classes>
+            <class name="com.recipeshare.runners.AuthRunner"/>
+        </classes>
+    </test>
+
+    <test name="EP-B Perfil">
+        <classes>
+            <class name="com.recipeshare.runners.PerfilRunner"/>
+        </classes>
+    </test>
+
+    <test name="EP-C Recetas">
+        <classes>
+            <class name="com.recipeshare.runners.RecetasRunner"/>
+        </classes>
+    </test>
+
+</suite>
