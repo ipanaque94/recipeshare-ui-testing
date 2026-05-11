@@ -120,6 +120,8 @@ mvn test -Dcucumber.filter.tags="not @BUG-001 \
 # Reporte Allure
 mvn allure:serve
 ```
+<img width="1350" height="681" alt="Captura de pantalla 2026-05-11 145145" src="https://github.com/user-attachments/assets/0355f041-c8a4-4b54-b62d-328d2e0b2415" />
+<img width="1353" height="684" alt="Captura de pantalla 2026-05-11 145129" src="https://github.com/user-attachments/assets/3a83dd13-3408-4935-81d0-bdc31c8bd5f7" />
 
 ---
 
