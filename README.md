@@ -97,7 +97,7 @@ Allure es la única evidencia de qué pasó.
 | EP-C | REC-01 Crear Receta | TC33,TC34,TC35,TC36,TC37,TC38,TC39,TC43,TC44 |
 | EP-C | REC-02 Ver Detalle | TC45,TC46,TC47,TC49 |
 | EP-C | REC-03 Editar Receta | TC48,TC50 |
-| **Total** | | **24 TC** |
+| **Total** | | **20 TC** |
 
 ---
 
